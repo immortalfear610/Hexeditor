@@ -194,3 +194,6 @@ This repository serves as the official landing page for HexEditor. The software 
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of HexEditor today!**
+
+---
+**Last updated:** 2026-11-07 17:35:02 UTC
