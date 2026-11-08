@@ -196,4 +196,4 @@ This repository serves as the official landing page for HexEditor. The software 
 **Get the most recent version of HexEditor today!**
 
 ---
-**Last updated:** 2026-11-07 21:35:08 UTC
+**Last updated:** 2026-11-08 01:10:42 UTC
